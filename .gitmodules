@@ -1,3 +1,27 @@
 [submodule "magnificent"]
 	path = magnificent
 	url = https://github.com/Lanhild/magnificent
+[submodule "amazing"]
+	path = amazing
+	url = https://github.com/Lanhild/amazing
+[submodule "elegant"]
+	path = elegant
+	url = https://github.com/Lanhild/elegant
+[submodule "enhanced"]
+	path = enhanced
+	url = https://github.com/Lanhild/enhanced
+[submodule "miraculous"]
+	path = miraculous
+	url = https://github.com/Lanhild/miraculous
+[submodule "reborn"]
+	path = reborn
+	url = https://github.com/Lanhild/reborn
+[submodule "recollection"]
+	path = recollection
+	url = https://github.com/Lanhild/recollection
+[submodule "synthetic"]
+	path = synthetic
+	url = https://github.com/Lanhild/synthetic
+[submodule "wow"]
+	path = wow
+	url = https://github.com/Lanhild/wow
