@@ -25,3 +25,6 @@
 [submodule "wow"]
 	path = wow
 	url = https://github.com/Lanhild/wow
+[submodule "luminous"]
+	path = luminous
+	url = https://github.com/Lanhild/luminous
